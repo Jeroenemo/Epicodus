@@ -1,0 +1,11 @@
+/Users/Jeroen/Epicodus/cs/RatedR/obj/Debug/netcoreapp2.2/RatedR.csprojAssemblyReference.cache
+/Users/Jeroen/Epicodus/cs/RatedR/obj/Debug/netcoreapp2.2/RatedR.csproj.CoreCompileInputs.cache
+/Users/Jeroen/Epicodus/cs/RatedR/obj/Debug/netcoreapp2.2/RatedR.AssemblyInfoInputs.cache
+/Users/Jeroen/Epicodus/cs/RatedR/obj/Debug/netcoreapp2.2/RatedR.AssemblyInfo.cs
+/Users/Jeroen/Epicodus/cs/RatedR/bin/Debug/netcoreapp2.2/RatedR.deps.json
+/Users/Jeroen/Epicodus/cs/RatedR/bin/Debug/netcoreapp2.2/RatedR.runtimeconfig.json
+/Users/Jeroen/Epicodus/cs/RatedR/bin/Debug/netcoreapp2.2/RatedR.runtimeconfig.dev.json
+/Users/Jeroen/Epicodus/cs/RatedR/bin/Debug/netcoreapp2.2/RatedR.dll
+/Users/Jeroen/Epicodus/cs/RatedR/bin/Debug/netcoreapp2.2/RatedR.pdb
+/Users/Jeroen/Epicodus/cs/RatedR/obj/Debug/netcoreapp2.2/RatedR.dll
+/Users/Jeroen/Epicodus/cs/RatedR/obj/Debug/netcoreapp2.2/RatedR.pdb
