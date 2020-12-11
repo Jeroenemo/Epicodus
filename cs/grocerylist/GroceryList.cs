@@ -17,7 +17,7 @@ class GroceryStore
         int total = 0;
         foreach (int price in groceryListPrices)
         {
-            total += price
+            total += price;
         }
 
         Console.WriteLine("Your total for this shopping trip will be $" + total);
