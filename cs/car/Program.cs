@@ -17,6 +17,8 @@ namespace Dealership {
 
             yugo.SetPrice(300);
 
+            Console.WriteLine(Car.MakeSound("BANG"));
+            
             Console.WriteLine("Enter maximum price: ");
             string stringMaxPrice = Console.ReadLine();
             int maxPrice = int.Parse(stringMaxPrice);
